@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6\physics-convexhull-linesegment-3d-mastervs2019\convexhulllinesegment3d\main.cpp(607): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConvexHullLineSegment3D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6\physics-convexHull-LineSegment-3D-masterVS2019\ConvexHullLineSegment3D\Debug\ConvexHullLineSegment3D.exe
